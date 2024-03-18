@@ -1,0 +1,10 @@
+h1{ color:blue;}
+h2{color: red;}
+h3 {color: purple;}
+h1 {text-align: center;} 
+h2 {text-align: center}
+h3 {text-align: center}
+ h3 {border-color: blue;
+border-style: groove;
+border-width: 5px;}
+ 
